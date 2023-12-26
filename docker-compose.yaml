@@ -1,0 +1,7 @@
+version: "3.8"
+services:
+ library-service:
+  image: mylibrary
+  ports:
+   - 8717:3000
+  restart: always

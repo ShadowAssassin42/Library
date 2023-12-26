@@ -1,0 +1,13 @@
+.img2 {
+    display: flex;
+    justify-content: center;
+    width: 60%;
+}
+.image{
+    display: flex;
+    justify-content: center;
+}
+.newtext{
+    display: flex;
+    justify-content: center;
+}
