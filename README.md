@@ -1,6 +1,6 @@
-# <span style="color: green">Задание на автомат</span>
-## <span style="color: red">Опция 1. Docker</span>
-### <span style="color: gold">Выполнила: Губина Анастасия (б2-ИФСТ-32)</span>
+<span style="color: green">Задание на автомат</span>
+<span style="color: red">Опция 1. Docker</span>
+<span style="color: gold">Выполнила: Губина Анастасия (б2-ИФСТ-32)</span>
 
 1.  Докер
 - bash install.sh
